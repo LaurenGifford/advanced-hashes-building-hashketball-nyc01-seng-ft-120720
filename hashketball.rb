@@ -13,7 +13,7 @@ def game_hash
       {:player_name => stat, :number => stat, :shoe => stat, :points => stat, :rebounds => stat, :assists => stat, :steals => stat, :blocks => stat, :slam_dunks => stat},
       {:player_name => stat, :number => stat, :shoe => stat, :points => stat, :rebounds => stat, :assists => stat, :steals => stat, :blocks => stat, :slam_dunks => stat}
       ]
-  }
+  },
   :away => {
     :team_name => "Charlotte Hornets",
     :colors => ["Turquoise", "Purple"],
